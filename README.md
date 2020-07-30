@@ -36,6 +36,9 @@ The downloaded data is provided under the name 'WUS.csv'
 The Model which trained using the Adam optimizer was selected to generate 1-day ahead and 50-days ahead forecasts using the test dataset.
 
 * One-day Ahead Forecast 
+![](Results/1D.png)  
+
 * 50-day Ahead Forecast 
+![](Results/50D.png)
 
 
