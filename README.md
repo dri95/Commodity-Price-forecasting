@@ -32,10 +32,14 @@ The downloaded data is provided under the name 'WUS.csv'
 |RmsProp	|0.0013	|0.0259|
 |AdaDelta	|0.0018|	0.0318|
 
+* Training and validation loss plots
+![](Results/Msemae.PNG)    
+
 ## 	EXPERIMENTAL RESULTS
 The Model which trained using the Adam optimizer was selected to generate 1-day ahead and 50-days ahead forecasts using the test dataset.
 
 * One-day Ahead Forecast 
+![](Results/1DD.PNG)    
 ![](Results/1D.png)  
 
 * 50-day Ahead Forecast 
