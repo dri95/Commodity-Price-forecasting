@@ -36,7 +36,7 @@ The downloaded data is provided under the name 'WUS.csv'
 ![](Results/Msemae.PNG)    
 
 ## 	EXPERIMENTAL RESULTS
-The Model which trained using the Adam optimizer was selected to generate 1-day ahead and 50-days ahead forecasts using the test dataset.
+The Model which trained using the Adam optimizer was selected to generate 1-day ahead and 50-days ahead forecasts using the test dataset. (Price Vs Time)
 
 *One-day Forecast
 ![](Results/1DD.PNG)    
